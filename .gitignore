@@ -1,4 +1,4 @@
 __pycache__
 .venv
 .vscode
-Datasets/Dataset_*
+Datasets/
