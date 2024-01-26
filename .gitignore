@@ -1,4 +1,6 @@
 __pycache__
 .venv
 .vscode
-Datasets/Dataset_*
+Datasets/la-haute*
+WT_hybrid_venv
+Bibliography
