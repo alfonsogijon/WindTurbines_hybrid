@@ -27,3 +27,7 @@ The ever-growing sector of wind energy underscores the importance of optimizing 
   doi={10.1007/978-3-031-63775-9_21}
 }
 ```
+
+## 🪙 Funding
+
+This work was partially funded by the Spanish Ministry of Economic Affairs and Digital Transformation (NextGenerationEU funds) within the project IA4TES MIA.2021.M04.0008. It was also funded by ERDF/Junta de Andalucía (D3S project P21.00247, and SE2021 UGR IFMIF-DONES), and MICIU/AEI/ 10.13039/501100011033 and EU ERDF (SINERGY, PID2021.125537NA.I00). Acknowledgement is extended to ENGIE for providing such an interesting and well-documented sample dataset.
