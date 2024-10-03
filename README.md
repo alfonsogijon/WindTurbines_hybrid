@@ -1,3 +1,5 @@
+![DOI](https://img.shields.io/badge/DOI-10.1007%2F978--3--031--63775--9__21-blue)
+
 # 📄 WindTurbines hybrid
 
 Hybrid model proposal for wind turbine power prediction.
